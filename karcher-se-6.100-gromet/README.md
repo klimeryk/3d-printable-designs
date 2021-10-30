@@ -10,5 +10,6 @@ Gromet for the Kärcher SE 6.100 vacuum. The exact position in the vaccum is sho
 
 Highly recommend to print using a flexible filament, like TPU. I've used Monoprice Flexible TPE.
 
- - **Supports:** No need.
- - **Raft:** No need.
+ - **Layer height**: 0.2 mm.
+ - **Supports**: No need.
+ - **Raft**: No need.
